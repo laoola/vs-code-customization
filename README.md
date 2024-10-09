@@ -43,7 +43,7 @@ This guide will help you customize your Visual Studio Code to use the GitHub Dar
 
 Add the following to your `settings.json`:
 
-```json
+```
 "vscode_custom_css.imports": [
     // Absolute file paths for your css/js files
     // For Mac or Linux
