@@ -14,12 +14,6 @@
     font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace !important;
 }
 
-/* List item label name */
-.monaco-list.list_id_1 .monaco-list-row.selected .label-name {
-    color: #fff !important;
-    opacity: 1 !important;
-}
-
 /* File Explorer Item Label */
 .monaco-tree .monaco-tree-row .label-name,
 .monaco-list .monaco-list-row
@@ -27,7 +21,6 @@
     font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace !important;
     font-size: 12px !important;
     font-weight: 400 !important;
-    color: #FFF !important;
 }
 
 /* Scroll Bar */
