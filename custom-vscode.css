@@ -4,13 +4,19 @@
 }
 
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab .tab-label a, .monaco-workbench .part.editor>.content .editor-group-container>.title .title-label a {
-    font-size: 11px;
+    font-size: 13px;
+}
+
+.monaco-icon-label .label-name{
+	    font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace !important;
+    font-size: 13px !important;
+    font-weight: 400 !important;
 }
 
 .line-numbers {
     position: relative !important;
     width: 25px !important;
-    font-size: 14px !important;
+    font-size: 13px !important;
     font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace !important;
 }
 
@@ -19,7 +25,7 @@
 .monaco-list .monaco-list-row
 .monaco-icon-label .label-name {
     font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace !important;
-    font-size: 12px !important;
+    font-size: 13px !important;
     font-weight: 400 !important;
 }
 
@@ -53,7 +59,7 @@
     border: none !important;
     background-color: rgba(34, 34, 34, .1) !important;
     font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace !important;
-    font-size: 14px !important;
+    font-size: 13px !important;
     margin-bottom: 16px !important;
 }
 
